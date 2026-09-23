@@ -1,4 +1,4 @@
-# Web Application
+# Fitcheck
 
 A simple and lightweight web application built using HTML, designed to provide users with different pages for workout planning, food scheduling, user registration, and password recovery.
 
